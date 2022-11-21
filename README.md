@@ -263,8 +263,6 @@ int main(void)
 ```
 Output:
 ```
-Output:
-```
 111
 ```
 
