@@ -404,8 +404,7 @@ Output:
 
 ## More Examples
 
-To print the address of Holberton School in the format "972 Mission St., San
-Francisco, CA 94103" where *street*, *city* and *state* are pointers to strings:
+To print the name and location of a School in the format "St. Joseph Sch 2, Tokyo, Nigeria, 101225" where *sch*, *city* and *state* are pointers to strings:
 
 Example `main.c`:
 ```
